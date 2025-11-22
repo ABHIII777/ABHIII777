@@ -1,40 +1,30 @@
-<h1 align="center">Hi 👋, I'm Abhi</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300">
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+Native+Enthusiast;I+love+building+cool+stuff+🔥" alt="Typing SVG" />
-</p>
+### Hey there, I’m Abhi 🤎
+**I build things for fun. 📱**
 
-<!-- Cool animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</p>
+> “Code, coffee, and lo-fi beats.”
+
+**Things I love**
+- Python & React   
+- Pixel art, cozy UI  
+- Crafting cool side projects 🎧  
 
 ---
 
-### 🧑‍💻 Tech Stack:
+### ⛩️ Tech I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,androidstudio,python" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+### ☕ Aesthetic Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=rose_pine&show_icons=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine" width="48%">
 </p>
 
 ---
-
-### 🐍 Contribution Graph Snake:
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌐 Find me here:
-<p>
-<a href="https://linkedin.com/in/..."><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://x.com/..."><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-</p>
+### 📬 Let’s be friends?
+> Twitter • Instagram • Portfolio Website
