@@ -21,8 +21,8 @@
 
 ### ☕ Aesthetic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=rose_pine&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHIII777&theme=rose_pine&show_icons=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIII777&theme=rose_pine" width="48%">
 </p>
 
 ---
