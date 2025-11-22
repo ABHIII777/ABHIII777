@@ -66,13 +66,7 @@ Crafting cozy experiences — from voxel worlds to web apps ✨
 > *Code with patience. Build with passion. Learn with curiosity.*  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-### 🐍 Contribution Snake (Coming Soon 🎯)
-
-<img src="https://raw.githubusercontent.com/ABHIII777/ABHIII777/output/github-contribution-grid-snake-dark.svg" />
-
----
 
 Thanks for stopping by!  
 Have a warm coffee ☕, stay creative 🍂  
