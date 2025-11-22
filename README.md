@@ -70,7 +70,7 @@ Crafting cozy experiences — from voxel worlds to web apps ✨
 
 ### 🐍 Contribution Snake (Coming Soon 🎯)
 
-<img src="https://github.com/ABHIII777/ABHIII777/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ABHIII777/ABHIII777/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
