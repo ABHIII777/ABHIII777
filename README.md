@@ -11,6 +11,7 @@ Crafting worlds, writing stories in code ☕✨
 <!-- Wavy SVG Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/waves-dark.svg" width="100%" />
 
+
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://instagram.com/thiz_ez_abhi_777"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -66,7 +67,7 @@ Crafting worlds, writing stories in code ☕✨
 
 <!-- 🐍 Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ABHIII777/ABHIII777/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ABHIII777/ABHIII777/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
