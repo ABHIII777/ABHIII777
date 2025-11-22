@@ -26,5 +26,4 @@
 </p>
 
 ---
-### 📬 Let’s be friends?
-> Twitter • Instagram • Portfolio Website
+
