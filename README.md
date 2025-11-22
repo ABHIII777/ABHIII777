@@ -9,7 +9,7 @@ Crafting worlds, writing stories in code ☕✨
 </div>
 
 <!-- Wavy SVG Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/waves-dark.svg" width="100%" />
+<img src="images/waves-dark.png" width="100%" />
 
 
 ## 🌐 Connect with Me
@@ -67,7 +67,7 @@ Crafting worlds, writing stories in code ☕✨
 
 <!-- 🐍 Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABHIII777/ABHIII777/output/github-contribution-grid-snake.svg" />
+  <img src="images/github-contribution-grid-snake.png" />
 </div>
 
 ---
