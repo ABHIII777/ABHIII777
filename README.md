@@ -1,29 +1,38 @@
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300">
-
-### Hey there, I’m Abhi 🤎
-**I build things for fun. 📱**
-
-> “Code, coffee, and lo-fi beats.”
-
-**Things I love**
-- Python & React   
-- Pixel art, cozy UI  
-- Crafting cool side projects 🎧  
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=8A5D3B&center=true&vCenter=true&width=500&lines=Hey+I'm+Abhi+👋;Game+Developer+🎮;React+%26+Node+Developer+💻;Voxel+Art+Enthusiast+🧊;Welcome+to+my+cozy+space+☕🍂" />
 
 ---
 
-### ⛩️ Tech I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,androidstudio,python" height="40"/>
-</p>
+☕✨ **Chill Vibes & Clean Code** ✨🍁  
+Full-stack Dev • Indie Game Dev • Python + PostgreSQL Enjoyer  
 
 ---
 
-### ☕ Aesthetic Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHIII777&theme=rose_pine&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIII777&theme=rose_pine" width="48%">
-</p>
+### 🧰 Tech Stack
+
+| Web / App | Backend | Database | Game Dev |
+|-----------|---------|----------|----------|
+| React ⚛️, React Native 📱 | Node 🚀 | PostgreSQL 🛢️ | 🎮 Voxel Games + Engines |
 
 ---
 
+### 📊 GitHub Stats (Aesthetic)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABHIII777&show_icons=true&theme=transparent&title_color=8A5D3B&text_color=6E4A31&icon_color=C27C4A&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIII777&theme=transparent&hide_border=true&ring=8A5D3B&currStreakLabel=8A5D3B&fire=8A5D3B" height="160"/>
+
+---
+
+### 🐍 Contribution Snake
+
+> Coming Soon 👇 (Once workflow is added)
+
+<img src="https://github.com/ABHIII777/ABHIII777/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+🍀 Thanks for being here.  
+Let’s connect and build something memorable. 🚀🤎
+
+</div>
