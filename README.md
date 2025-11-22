@@ -66,7 +66,7 @@ Crafting cozy experiences — from voxel worlds to web apps ✨
 > *Code with patience. Build with passion. Learn with curiosity.*  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+---
 
 Thanks for stopping by!  
 Have a warm coffee ☕, stay creative 🍂  
